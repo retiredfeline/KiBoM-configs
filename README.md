@@ -2,7 +2,7 @@
 
 This is/will be a collection of bom.ini files for various PCB fabricators to use with [KiBoM](https://github.com/SchrodingersGat/KiBoM). Please read the instructions there to install KiBoM first.
 
-See the comments at the top of each files for installation and usage.
+See the comments at the top of each file for installation and usage.
 
 ## Author
 
