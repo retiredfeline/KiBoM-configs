@@ -1,0 +1,14 @@
+"My project PCB Specification",
+"PCB Quantity","10pcs"
+"Layer","2layer"
+"PCB Thickness","1.6mm"
+"Dimensions","100*100mm"
+"Castellated Hole","No"
+"PCB Color","Green"
+"Surface Finish","HASL"
+"Copper Weight","1oz"
+"Text Color","White"
+"Different Design",1
+,
+"Please find more PCB information on our on-line PCB ordering Page",
+"https://www.elecrow.com/pcb-manufacturing.html",
